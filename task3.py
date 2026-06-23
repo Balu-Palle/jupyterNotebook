@@ -1,0 +1,1 @@
+#Simple neuron class with bias,forward,weights
